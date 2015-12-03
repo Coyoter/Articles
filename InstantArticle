@@ -61,8 +61,18 @@
         <figcaption>This image is amazing</figcaption>
       </figure>
 
-<figure class="op-social"><iframe width="560" height="315" src="https://www.youtube.com/embed/JApW1uKU2nY" frameborder="0" allowfullscreen></iframe></figure>
+<figure class="op-social"><iframe width="560" height="315" src="https://www.youtube.com/embed/JApW1uKU2nY" frameborder="0" allowfullscreen></iframe><figcaption>This image is amazing</figcaption></figure>
 
 <p>
 
 </p>
+
+<figure class="op-social">
+<iframe>
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="/llchu/videos/vb.10150145806225128/10156375213540128/?type=3"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/llchu/videos/10156375213540128/"><a href="https://www.facebook.com/llchu/videos/10156375213540128/"></a><p>朱立倫×王如玄及國民黨立委競選官網今天正式上線。One Taiwan，來這裡，溝通理念，暸解政策，共同找回「一個台灣」。ONE Taiwan 台灣就是力量http://onetaiwan.tw/</p>由<a href="https://www.facebook.com/llchu/">朱立倫</a>貼上了 2015年11月30日</blockquote></div></div>
+</iframe>
+<figcaption>朱立倫</figcaption>
+</figure>
+
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="/llchu/videos/vb.10150145806225128/10156375213540128/?type=3"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/llchu/videos/10156375213540128/"><a href="https://www.facebook.com/llchu/videos/10156375213540128/"></a><p>朱立倫×王如玄及國民黨立委競選官網今天正式上線。One Taiwan，來這裡，溝通理念，暸解政策，共同找回「一個台灣」。ONE Taiwan 台灣就是力量http://onetaiwan.tw/</p>由<a href="https://www.facebook.com/llchu/">朱立倫</a>貼上了 2015年11月30日</blockquote></div></div>
